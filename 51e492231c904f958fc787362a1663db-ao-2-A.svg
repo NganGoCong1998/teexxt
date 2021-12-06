@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="707" height="474">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect id="51e492231c904f958fc787362a1663db-ao-1" height="24" width="258.66667" y="319.77778" x="357" stroke="#2D2D2D" fill="#aaffff"/>
+  
+  <rect id="51e492231c904f958fc787362a1663db-ao-3" height="26.66667" width="263.11111" y="201.55556" x="101" stroke="#2D2D2D" fill="#aaffff"/>
+  <rect id="51e492231c904f958fc787362a1663db-ao-4" height="25.77778" width="195.55556" y="126.88889" x="93.88889" stroke="#2D2D2D" fill="#aaffff"/>
+  <text style="cursor: move;" xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="51e492231c904f958fc787362a1663db-ao-5" y="32.66667" x="368.55556" stroke-width="0" fill="#000000">State what the signs are going to be: (A)Cyanosis, CHF?</text>
+ </g>
+</svg>
